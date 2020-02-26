@@ -1,0 +1,15 @@
+------  A-B-C-D-E Firmalarının Atanan Default Hisse Miktarları -------
+A Firmasının Hisse Miktarı:100
+
+B Firmasının Hisse Miktarı:200
+
+C Firmasının Hisse Miktarı:300
+
+D Firmasının Hisse Miktarı:400
+
+E Firmasının Hisse Miktarı:500
+1914420501No'lu Gözlemci Tarafından Güncellenen Firma ve Güncellenmiş HisseSenedi:A FİRMASI: 360
+924396850No'lu Gözlemci Tarafından Güncellenen Firma ve Güncellenmiş HisseSenedi:B FİRMASI: 180
+1362072906No'lu Gözlemci Tarafından Güncellenen Firma ve Güncellenmiş HisseSenedi:C FİRMASI: 200
+115670025No'lu Gözlemci Tarafından Güncellenen Firma ve Güncellenmiş HisseSenedi:D FİRMASI: 540
+691542741No'lu Gözlemci Tarafından Güncellenen Firma ve Güncellenmiş HisseSenedi:E FİRMASI: 560
