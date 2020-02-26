@@ -1,1 +1,1 @@
-# Observer-Pattern-and-Thread-Usage
+# Observer Pattern and Thread Usage
